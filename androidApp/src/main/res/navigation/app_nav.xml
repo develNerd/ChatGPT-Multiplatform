@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/app_nav"
+    app:startDestination="@id/chatHomeFragment">
+
+
+    <fragment
+        android:id="@+id/chatHomeFragment"
+        android:name="org.flepper.chatgpt.android.presentation.ui.home.ChatHomeFragment"
+        android:label="fragment_chat_home"
+        tools:layout="@layout/fragment_chat_home" />
+
+    <fragment
+        android:id="@+id/userAuthFragment"
+        android:name="org.flepper.chatgpt.android.presentation.ui.home.UserAuthFragment"
+        android:label="fragment_user_auth"
+        tools:layout="@layout/fragment_user_auth">
+
+        <action
+            android:id="@+id/action_userAuthFragment_to_chatHomeFragment"
+            app:popUpToInclusive="true"
+            app:popUpTo="@+id/userAuthFragment"
+            app:destination="@id/chatHomeFragment" />
+    </fragment>
+
+</navigation>

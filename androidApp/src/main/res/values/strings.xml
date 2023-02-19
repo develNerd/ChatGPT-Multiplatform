@@ -1,0 +1,10 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">Chat GPT KMM</string>
+    <string name="chat_gpt">Chat GPT</string>
+    <string name="question_here">Question Here</string>
+    <string name="reload_page">Reload Page</string>
+    <string name="web_client">Web</string>
+    <string name="mobile_client">Mobile</string>
+</resources>
