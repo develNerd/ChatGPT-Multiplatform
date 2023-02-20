@@ -26,3 +26,6 @@ The Project shows how to incorporate the following into a KMM Project
 
 Disclaimer
 - This is purely for learning purposes and does only extend the public ChatGPT API
+
+https://user-images.githubusercontent.com/37780207/220201634-442908c0-d321-42f3-a2a8-29b03ea5e254.mp4
+
