@@ -9,7 +9,6 @@ Available Clients
 
 Planned 
 - IOS Client (SwiftUI)
-- Web Client 
 - Desktop Client
 
 
