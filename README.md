@@ -27,9 +27,9 @@ Disclaimer
 - This is purely for learning purposes and does only extend the public ChatGPT API
 
 - ScreenShots
+![Screenshot_20230223_160651_Chat GPT KMM (1)](https://user-images.githubusercontent.com/37780207/220971793-63265fc9-10d9-409b-a61a-67e82e5ded33.jpg)
 
-[Screenshot_20230223_160651_Chat GPT KMM (1)](https://user-images.githubusercontent.com/37780207/220971474-34449f4d-19f7-4de2-aaf6-c26d90ea938a.jpg)
-)
+
 ![Screenshot_20230223_160718_Chat GPT KMM (1)](https://user-images.githubusercontent.com/37780207/220971573-8723cf24-8bf7-4c0a-813c-79897713d8de.jpg)
 
 ![Screenshot_20230223_160707_Chat GPT KMM (1)](https://user-images.githubusercontent.com/37780207/220971593-92755791-46ca-4dbd-9960-ee6bce45ce27.jpg)
